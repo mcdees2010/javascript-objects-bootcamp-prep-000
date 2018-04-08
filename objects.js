@@ -1,6 +1,9 @@
 var playlist = {madonna: "Vogue", beyonce: "Halo", pink: "Try"}
  
-function (playlist, artistName, songTitle) {
+ 
+ 
+ 
+function destructivelyUpdateObjectWithKeyAndValue(playlist, artistName, songTitle) {
   
   return playlist
 }
