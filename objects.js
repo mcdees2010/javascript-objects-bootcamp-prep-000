@@ -7,6 +7,7 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value) {
 }
  
 function destructivelyUpdateObjectWithKeyAndValue(playlist, artistName, songTitle) {
-  
+  playlist['Slowdive'] = 'Alison'
+  playlist['My Bloody Valentine'] = 'Sometimes'
   return playlist
 }
