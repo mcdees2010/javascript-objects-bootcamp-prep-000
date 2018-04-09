@@ -1,4 +1,4 @@
-
+var playlist = {madonna: "Vogue"}
 
 var playlist = {artistName: songTitle}
  
